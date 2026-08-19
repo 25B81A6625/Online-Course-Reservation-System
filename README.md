@@ -3,6 +3,6 @@ This Software Requirements Specification (SRS) document details an Online Course
 # ONLINE COURSE RESERVATION SYSTEM
 This project is created for academic demonstration purpose only
 Software Configuration Management using GitHub.
-Student Name: <Your Mohankrishna>
-Roll Number: <Your 25B81A6625>
+Student Name: < Mohankrishna>
+Roll Number: < 25B81A6625>
 Class:Your CSM-A
