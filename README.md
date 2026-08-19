@@ -1,7 +1,8 @@
 # Online-Course-Reservation-System
 This Software Requirements Specification (SRS) document details an Online Course Reservation System. It defines user roles (students, instructors, admins), core features like course browsing, secure booking, and payment processing, plus non-functional requirements ensuring system security, scalability, and performance.
+# ASSIGNED SAMPLE PROJECT NAME
 This project is created for academic demonstration purpose only
 Software Configuration Management using GitHub.
 Student Name: <Your Mohankrishna>
-Roll Number: <Your 25B81A6625 >
+Roll Number: <Your 25B81A6625>
 Class: <Your CSM-A>
